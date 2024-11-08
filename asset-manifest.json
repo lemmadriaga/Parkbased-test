@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Parkbased-test/static/css/main.906dfc7d.css",
-    "main.js": "/Parkbased-test/static/js/main.cbd0bba8.js",
+    "main.js": "/Parkbased-test/static/js/main.86037e4c.js",
     "static/js/453.0cff968a.chunk.js": "/Parkbased-test/static/js/453.0cff968a.chunk.js",
     "static/media/landingpage-bg.jpg": "/Parkbased-test/static/media/landingpage-bg.8e4c0a9ef55808d45b63.jpg",
     "static/media/login-bg.jpg": "/Parkbased-test/static/media/login-bg.751623de2ea1159e4d52.jpg",
     "index.html": "/Parkbased-test/index.html",
     "main.906dfc7d.css.map": "/Parkbased-test/static/css/main.906dfc7d.css.map",
-    "main.cbd0bba8.js.map": "/Parkbased-test/static/js/main.cbd0bba8.js.map",
+    "main.86037e4c.js.map": "/Parkbased-test/static/js/main.86037e4c.js.map",
     "453.0cff968a.chunk.js.map": "/Parkbased-test/static/js/453.0cff968a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.906dfc7d.css",
-    "static/js/main.cbd0bba8.js"
+    "static/js/main.86037e4c.js"
   ]
 }
